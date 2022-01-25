@@ -1,5 +1,6 @@
 # Face Generation
 
+
 ### Project Overview
 
 In this project, you'll define and train a DCGAN on a dataset of faces. 
